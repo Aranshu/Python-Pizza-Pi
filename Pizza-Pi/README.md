@@ -7,15 +7,12 @@
 |`Main`               | Contain Index.py 
 
 ## Pseudo-Code
-Step 1: Start
-Step 2: Take User Enter Input
-Step 3: Validate User Input for any possible error
-step 4: Find the possible pizza slices accoding to user input
-step 5: show the desired output of program
-step 6: go to step 1 if user input is not 0 else stop
+Step 1: Start <br>
+Step 2: Take User Enter Input <br>
+Step 3: Validate User Input for any possible error <br>
+step 4: Find the possible pizza slices accoding to user input <br>
+step 5: show the desired output of program <br>
+step 6: go to step 1 if user input is not 0 else stop <br>
 
 ## Flow Chart
-![Flow Chart](https://github.com/Aranshu/258331_Project/blob/master/Images/Main%20Menu.PNG?raw=true)
-
-### Program Output
-![Program Output](https://github.com/Aranshu/258331_Project/blob/master/Images/Main%20Menu.PNG?raw=true)
+![Flow Chart](https://github.com/Aranshu/Python-Pizza-Pi/blob/main/Images/Flow_Chart.png?raw=true)
