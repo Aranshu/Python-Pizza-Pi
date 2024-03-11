@@ -20,4 +20,4 @@ SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|Total Test C
 ## Learning Resources
 1. [w3schools](https://www.w3schools.com/python/)
 2. [tutorialspoint](https://www.tutorialspoint.com/python/index.htm)
-3. [site](https://aranshu.github.io/Python-Scientific-Calculator/)
+3. [site](https://aranshu.github.io/)
